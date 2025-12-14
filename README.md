@@ -41,9 +41,8 @@ cd Phone_Lookup
 Install dependencies:
 
 pip install phonenumbers requests colorama
-
-> Dependencies will be installed automatically if missing.
 ```
+## > Dependencies will be installed automatically if missing.
 
 
 
