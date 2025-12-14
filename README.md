@@ -35,8 +35,8 @@ This tool is designed for **data validation, educational use, OSINT basics, and 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/phone-number-info-tool.git
-cd phone-number-info-tool
+git clone https://github.com/Githu836/Phone_Lookup.git
+cd Phone_Lookup
 
 Install dependencies:
 
